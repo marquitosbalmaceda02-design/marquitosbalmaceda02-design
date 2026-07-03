@@ -73,7 +73,7 @@
 
 ---
 
-# 🎯 Objetivos 2026
+# 🎯 Objetivos a futuro
 
 - 🔄 Desplegar proyectos
 - 🔄 Conseguir mi primer trabajo como Full Stack Developer
