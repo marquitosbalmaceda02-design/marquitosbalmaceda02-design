@@ -90,7 +90,7 @@
 
 <div align="center">
 
-<a href="marquitosbalmaceda02@gmail.com">
+<a href="marquitosbalmaceda02-design">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
