@@ -36,7 +36,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs,express,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,git,github" />
 
 </div>
 
@@ -68,19 +68,13 @@
 🧠 Aprendiendo Full Stack Development
 ⚡ Mejorando lógica de programación
 📖 Construyendo proyectos personales
-🚀 Preparándome para mi primer empleo IT
+🚀 Preparándome para memi primer empleo IT
 ```
 
 ---
 
 # 🎯 Objetivos 2026
 
-- ✅ Dominar JavaScript
-- 🔄 Aprender React
-- 🔄 Backend con Node.js
-- 🔄 Bases de datos SQL
-- 🔄 APIs REST
-- 🔄 Docker
 - 🔄 Desplegar proyectos
 - 🔄 Conseguir mi primer trabajo como Full Stack Developer
 
