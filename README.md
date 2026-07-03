@@ -42,15 +42,6 @@
 
 ---
 
-# 🔥 Racha de contribuciones
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=marquitosbalmaceda02-design&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 # 📊 Actividad
 
