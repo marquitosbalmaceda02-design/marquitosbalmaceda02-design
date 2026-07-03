@@ -28,7 +28,7 @@
 
 🎯 Objetivo:
 
-> Convertirme en un desarrollador Full Stack profesional creando aplicaciones modernas, escalables y de alta calidad.
+> Convertirme en un desarrollador Full Stack profesional para trabajar de fomrma remota.
 
 ---
 
